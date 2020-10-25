@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Paper 1 Title](/Ethics paper.docx)
 
--   **Class:**  
--   **Grade:**
+-   **Class:**  CSCI 325
+-   **Grade:**  A
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Paper 2 Title](/pdf/Ethics Paper Operating Systems.docx)
 
--   **Class:** 
--   **Grade:**
+-   **Class:**  CSCI 431
+-   **Grade:**  A
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Paper 3 Title](/pdf/Ethics Paper Computer Architecture.docx)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 330
+-   **Grade:** A
 
 ---
 

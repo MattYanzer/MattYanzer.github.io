@@ -37,7 +37,6 @@ Ethics Papers
 -   **Grade:**  A
 
 ### [Ethics Paper 2](Ethics Paper Operating Systems.docx)
-)
 
 -   **Class:**  CSCI 431
 -   **Grade:**  A

@@ -9,12 +9,12 @@ Programming Projects
 ---
 ### [Website for Marathon Run Event | CSCI 334](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/HomePage.PNG)
 
 ---
 ### [HTML Tag Matcher | CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/GoodExample.PNG)
 
 ---
 ### [Database for University | CSCI 495](project3)

@@ -1,44 +1,46 @@
-[Back to Portfolio](./)
+F[Back to Portfolio](./)
 
-Project 1 Title
+Website for Marathon Run Event
 ===============
 
--   **Class:** 
--   **Grade:**
--   **Language(s):**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** CSCI 334
+-   **Grade:** A
+-   **Language(s):** Ruby
+-   **Source Code Repository:** [MattYanzer/Project1_Marathon_Website](https://github.com/MattYanzer/Project1_Marathon_Website)  
+    (Please [email me](mailto:mcyanzer@csustudent.net?subject=GitHub%20Access) to request access. To view the code, you must switch to the master branch.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## How to compiles / run the program
-
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
-```
+This project was made for a fictional marathon run event. The website would allow people to register for the race, join teams for the race, and inform both participants and observers about the event. The website would accommodate cross-platform, so people could comfortably navigate the website on both desktop and mobile device.
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+People visiting the website would first be greeted with a welcome page to the website (See Figure 1). From there they could either log in to the website or register an account, which would take the user to the pages displayed in Figure 2 and Figure 3, respectively. If a returning user is logging in, they are greeted with the page in Figure 4. Of course, if a user logs in with incorrect information, they are given an error message (See Figure 5). An error message will also be given to users registering for the race if any of their information cannot be used (See Figure 6). If a user is an admin, they can access the list of users registered for the race and have the option of deleting users and promoting users to admins (See Figure 7). There is also a settings page where the user can update their information (See Figure 8). When a new User is created, they are greeting with the information page and a notification welcoming them to the event. Unlike admins, users do not have access to the Users page (See Figure 9). The website is currently supported by heroku and can be visited with the following link. [Here is the website](http://gentle-caverns-07357.herokuapp.com/)
+![screenshot](images/dummy_thumbnail.jpg)
+Fig 1. The Welcome Page
 
 ![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
+Fig 2. The Log In Page
 
 ![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
+Fig 3. The Register Page
 
 ![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+Fig 4. Log In Welcome Page
 
-## 3. Additional Considerations
+![screenshot](images/dummy_thumbnail.jpg)
+Fig 5. Log In Error for an Incorrect Password
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+![screenshot](images/dummy_thumbnail.jpg)
+Fig 6. Register Error for an Incorrect Email and Short Password.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![screenshot](images/dummy_thumbnail.jpg)
+Fig 7. Users Page for Admins.
+
+![screenshot](images/dummy_thumbnail.jpg)
+Fig 8. Settings Page.
+
+![screenshot](images/dummy_thumbnail.jpg)
+Fig 9. New User Page.
 
 [Back to Portfolio](./)

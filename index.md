@@ -17,12 +17,12 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/GoodExample.PNG)
 
 ---
-### [Database for University | CSCI 495](project3)
+### [Personal Website | CSCI 332](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Company Database | CSCI 419](project4)
+### [Hypotenuse Calculation | CSCI 301](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 

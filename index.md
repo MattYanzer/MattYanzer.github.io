@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/Presentation1.pdf)
+### [Presentation on Target Security Breach](/pdf/Presentation1.pdf)
 
 - **Class:** CSCI 301
 - **Grade:** A
 
 
-### [Presentation 2 Title](/pdf/Presentation2.pdf)
+### [Presentation on Full Adder](/pdf/Presentation2.pdf)
 
 - **Class:** CSCI 330
 - **Grade:** A

@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [HTML Tag Matcher | CSCI 315](project1)
+### [HTML Tag Matcher | CSCI 315](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Database for University | CSCI 495](project1)
+### [Database for University | CSCI 495](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Company Database | CSCI 419](project1)
+### [Company Database | CSCI 419](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 

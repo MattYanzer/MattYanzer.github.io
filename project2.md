@@ -52,13 +52,7 @@ Fig 3c. The file that Figure 3b's file points to. As you can see, it links back 
 ![screenshot](images/fileNotFound.PNG)
 Fig 4. Example output when an error occurs (file not found).
 
-![screenshot](images/MultipleFiles.PNG)
+![screenshot](images/MultiFile.PNG)
 Fig 5. Example output when the program checks two files at the same time.
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)

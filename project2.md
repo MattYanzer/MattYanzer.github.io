@@ -13,7 +13,7 @@ HTML Tag Checker
 
 The purpose of this project is to check HTML files to ensure that all tags used are in proper order and determines what the longest stream of non-repeating pages that can be accessed are.
 
-## How to compiles / run the program
+## How to compile / run the program
 
 In order to properly run the program, execute the below commands inside the project2 folder.
 Make sure that you list the address of the file if it's not in the same file as project2.

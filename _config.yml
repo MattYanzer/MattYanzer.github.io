@@ -1,6 +1,6 @@
 # Site settings
 # These are used to personalize your new site.
-title: Mary Lou Algorithm # your name here
+title: Matthew Yanzer # your name here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br /> elements if you don't need line breaks)
   CSCI 496: Senior Portfolio<br />
@@ -9,10 +9,8 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <br /><br />
   <a href="https://example.com/resume">View My Resume</a>
   <br /><br />
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
-repository: "csci-csu/csci-portfolio"
+repository: "MattYanzer/csci-portfolio"
 github_username:  MattYanzer # update with your username
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 # Build setting
 theme: jekyll-theme-minimal

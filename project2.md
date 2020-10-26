@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Project2 HTML Tag Checker
 ===============
 
 -   **Class:** CSCI 315

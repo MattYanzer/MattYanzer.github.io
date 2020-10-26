@@ -32,7 +32,7 @@ make
 
 ## UI Design
 
-
+As afore-mentioned, this project has two purposes. The first purpose is to parse through html files and ensure that the file's tags are balanced, and the second purpose is to find how many unique pages that file can access. For the first purpose, the program utilizes a stack and pushes copies of the names of the tags into the stack. Any time an end tag is found, it is pushed onto the stack and the top two elements of the stack are compared to see if the top element (aka the end tag) matches the element beneath it (aka its supposed start tag). If the tags match, the two elements are popped off of the stack and the parsing continues until the end of the file. The file will be properly balanced if the stack is empty once the parsing finishes since every beginning tag will have been matched with its cooresponding end tag in the proper order. The program will then display a message stating that the file is balanced (see Figure 1). After that, the program will then parse through 
 
 ![screenshot](images/dummy_thumbnail.jpg)
 Fig 1. The launch screen

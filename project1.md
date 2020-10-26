@@ -13,7 +13,7 @@ Website for Marathon Run Event
 
 This project was made for a fictional marathon run event. The website would allow people to register for the race, join teams for the race, and inform both participants and observers about the event. The website would accommodate cross-platform, so people could comfortably navigate the website on both desktop and mobile device. Unfortunately, the team functionality was never added as our team ran out of time; however, everything else is fully functional.
 
-## How to compiles / run the program
+## How to compile / run the program
 
 How to compile and run the project.
 

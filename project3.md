@@ -13,7 +13,7 @@ Personal Website
 
 This project is a website built in HTML that details some information about myself as well as some of the lab work I have done for CSCI 332. 
 
-## How to compiles / run the program
+## How to compile / run the program
 
 In order to run this project, download Visual Studio Code. From there, download the Live Server extension. Once that extension has downloaded, open the HOME PAGE folder in Visual Studio's editor, go to index.html inside HOME PAGE, and select "Go Live" on the status bar. From there you'll be able to navigate the website.
 

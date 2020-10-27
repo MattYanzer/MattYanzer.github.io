@@ -1,13 +1,6 @@
 Portfolio
 =========
 
-Resume
-------
-
-### [View my Resume](ZupRes.docx)
-
----
-
 Programming Projects
 --------------------
 

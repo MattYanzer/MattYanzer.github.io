@@ -25,7 +25,7 @@ Navigate to where the folder is located and execute these commands on your termi
 
 As previously stated, this project calculates the hypotenuse of a triangle given the triangle's other two sides. In addition, it calculates the surface area of the triangle.
 
-![screenshot](images/Hypotenuse.PNG)
+![screenshot](images/Hypot.PNG)
 Fig 1. An example output where the given sides were of lengths 3 and 4.
 
 [Back to Portfolio](./)

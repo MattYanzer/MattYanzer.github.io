@@ -1,6 +1,13 @@
 Portfolio
 =========
 
+Resume
+------
+
+### [View my Resume](Updated Resume.docx)
+
+---
+
 Programming Projects
 --------------------
 

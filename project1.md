@@ -8,10 +8,11 @@ Website for Marathon Run Event
 -   **Language(s):** Ruby
 -   **Source Code Repository:** [MattYanzer/Project1_Marathon_Website](https://github.com/MattYanzer/Project1_Marathon_Website)  
     (Please [email me](mailto:mcyanzer@csustudent.net?subject=GitHub%20Access) to request access. To view the code, you must switch to the master branch.)
+-   **Team Members:** Benjamin Blauch, Kaitlyn Crews, Paul McGlothlin, Matthew Yanzer 
 
 ## Project description
 
-This project was made for a fictional marathon run event. The website would allow people to register for the race, join teams for the race, and inform both participants and observers about the event. The website would accommodate cross-platform, so people could comfortably navigate the website on both desktop and mobile device. Unfortunately, the team functionality was never added as our team ran out of time; however, everything else is fully functional.
+This team project was made for a fictional marathon run event. The website would allow people to register for the race, join teams for the race, and inform both participants and observers about the event. The website would accommodate cross-platform, so people could comfortably navigate the website on both desktop and mobile device. Unfortunately, the team functionality was never added as our team ran out of time; however, everything else is fully functional.
 
 ## How to compile / run the program
 

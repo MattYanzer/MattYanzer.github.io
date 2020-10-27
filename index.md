@@ -4,7 +4,7 @@ Portfolio
 Resume
 ------
 
-### [View my Resume](Updated Resume.docx)
+### [View my Resume](ZupRes.docx)
 
 ---
 

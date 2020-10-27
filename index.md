@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Hypotenuse Calculation | CSCI 301](project4)
 
-![Project 4 Thumbnail Name](images/Hypotenuse.PNG)
+![Project 4 Thumbnail Name](images/Hypot.PNG)
 
 ---
 

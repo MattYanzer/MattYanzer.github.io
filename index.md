@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Personal Website | CSCI 332](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/HomePageWebsite.PNG)
 
 ---
 ### [Hypotenuse Calculation | CSCI 301](project4)

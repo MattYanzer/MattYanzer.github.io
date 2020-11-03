@@ -15,7 +15,7 @@ This project is a website built in HTML that details some information about myse
 
 ## How to compile / run the program
 
-In order to run this project, download Visual Studio Code. From there, download the Live Server extension. Once that extension has downloaded, open the HOME PAGE folder in Visual Studio's editor, go to index.html inside HOME PAGE, and select "Go Live" on the status bar. From there you'll be able to navigate the website. It is imperative that the HOME PAGE folder has been removed from the Project3 folder before doing this as the HTML links are designed around HOME FOLDER being the base folder.
+In order to run this project, download Visual Studio Code. From there, download the Live Server extension. Once that extension has downloaded, open the HOME PAGE folder in Visual Studio's editor, go to index.html inside HOME PAGE, and select "Go Live" on the status bar. From there you'll be able to navigate the website. The HOME PAGE folder needs to be removed from the Project3 folder before running the website as the HTML links are designed around HOME FOLDER being the base folder.
 
 ## UI Design
 
